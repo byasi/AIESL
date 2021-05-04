@@ -18,7 +18,7 @@ const NavBar = () => {
                         <Link to ="/" className={`nav-item nav-link ${path === '/' ? ' active' : null} `}>Home</Link>
                         <Link to ="/aboutus" className={`nav-item nav-link ${path === '/aboutus' ? ' active' : null} `}>About</Link>
                         <Link to ="/services" className={`nav-item nav-link ${path === '/services' ? ' active' : null} `}>Service</Link>
-                        <Link to ="/team" className={`nav-item nav-link ${path === '/team' ? ' active' : null} `}>Team</Link>
+                        {/* <Link to ="/team" className={`nav-item nav-link ${path === '/team' ? ' active' : null} `}>Team</Link> */}
                         <Link to ="/projects" className={`nav-item nav-link ${path === '/projects' ? ' active' : null} `}>Project</Link>
                         <Link to="/contactus" className={`nav-item nav-link ${path === '/contactus' ? ' active' : null} `}>Contact</Link>
                     </div>

@@ -14,11 +14,11 @@ const Footer = () => {
                                 <p><i className="fa fa-phone-alt"></i>+256 704 761 457</p>
                                 <p><i className="fa fa-envelope"></i>musiimebobanold@gmail.com</p>
                                 <div className="footer-social">
-                                    <a href="/"><i className="fab fa-twitter"></i></a>
-                                    <a href="/"><i className="fab fa-facebook-f"></i></a>
+                                    <a href="https://twitter.com/AshnoldL?s=09"><i className="fab fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/562170050824223/posts/1317452445295976/"><i className="fab fa-facebook-f"></i></a>
                                     <a href="/"><i className="fab fa-youtube"></i></a>
                                     <a href="/"><i className="fab fa-instagram"></i></a>
-                                    <a href="/"><i className="fab fa-linkedin-in"></i></a>
+                                    <a href="https://www.linkedin.com/in/anold-musiime-673693162"><i className="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -37,21 +37,18 @@ const Footer = () => {
                                 <h2>Useful Pages</h2>
                                 <Link to="/aboutus">About Us</Link>
                                 <Link to="/contactus">Contact Us</Link>
-                                <Link to="/team">Our Team</Link>
+                                {/* <Link to="/team">Our Team</Link> */}
                                 <Link to="/projects">Projects</Link>
                                 <a href="#testimonials">Testimonial</a>
                             </div>
                         </div>
                         <div className="col-md-6 col-lg-3">
                             <div className="newsletter">
-                                <h2>Newsletter</h2>
+                                <h2>Reminder</h2>
                                 <p>
-                                    Lorem ipsum dolor sit amet elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulpu
+                                   Please do not fail to contact us for more information. Our contacts are always available 24/7.
                                 </p>
-                                <div className="form">
-                                    <input className="form-control" placeholder="Email here"/>
-                                    <button className="btn">Submit</button>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>

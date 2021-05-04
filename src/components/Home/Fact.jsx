@@ -13,7 +13,7 @@ const Fact = () => {
                                         <i className="flaticon-worker"></i>
                                     </div>
                                     <div className="fact-text">
-                                        <h2 data-toggle="counter-up">109</h2>
+                                        <h2 data-toggle="counter-up">47</h2>
                                         <p>Expert Workers</p>
                                     </div>
                                 </div>
@@ -22,7 +22,7 @@ const Fact = () => {
                                         <i className="flaticon-building"></i>
                                     </div>
                                     <div className="fact-text">
-                                        <h2 data-toggle="counter-up">485</h2>
+                                        <h2 data-toggle="counter-up">67</h2>
                                         <p>Happy Clients</p>
                                     </div>
                                 </div>
@@ -35,7 +35,7 @@ const Fact = () => {
                                         <i className="flaticon-address"></i>
                                     </div>
                                     <div className="fact-text">
-                                        <h2 data-toggle="counter-up">789</h2>
+                                        <h2 data-toggle="counter-up">50</h2>
                                         <p>Completed Projects</p>
                                     </div>
                                 </div>
@@ -44,7 +44,7 @@ const Fact = () => {
                                         <i className="flaticon-crane"></i>
                                     </div>
                                     <div className="fact-text">
-                                        <h2 data-toggle="counter-up">890</h2>
+                                        <h2 data-toggle="counter-up">32</h2>
                                         <p>Running Projects</p>
                                     </div>
                                 </div>
