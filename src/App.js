@@ -9,7 +9,7 @@ import AboutUs from './components/AboutUs';
 import ContactUs from './components/ContactUs';
 import Projects from './components/Projects';
 import Services from './components/Services';
-import OurTeam from './components/OurTeam';
+// import OurTeam from './components/OurTeam';
 //End of Components
 
 function App() {
@@ -17,35 +17,32 @@ function App() {
     <Router>
       <div className="wrapper">
       <Header/>
-      <Switch>
+     <Switch>
+        
         <Route exact path="/">
         <Home/>
         </Route>
-      </Switch>
-      <Switch>
-        <Route path="/aboutus">
+
+        <Route path="/aboutus" exact>
         <AboutUs/>
         </Route>
-      </Switch>
-      <Switch>
-        <Route path="/contactus">
+
+        <Route path="/contactus" exact>
         <ContactUs/>
         </Route>
-      </Switch>
-      <Switch>
-        <Route path="/projects">
+
+        <Route path="/projects" exact>
           <Projects/>
         </Route>
-      </Switch>
-      <Switch>
-        <Route path="/services">
+
+        <Route path="/services" exact>
           <Services/>
         </Route>
-      </Switch>
-      <Switch>
-        <Route path="/team">
+
+        {/* <Route path="/team" exact>
           <OurTeam/>
-        </Route>
+        </Route> */}
+
       </Switch>
       <Footer/>
     </div>

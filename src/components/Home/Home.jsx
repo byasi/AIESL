@@ -5,9 +5,9 @@ import Fact from './Fact';
 import Faq from './Faq';
 import FeatureStart from './FeatureStart';
 import Service from './Service';
-import Team from './Team';
+// import Team from './Team';
 import Testimonial from './Testimonial';
-import Video from './Video';
+// import Video from './Video';
 
 const Home = () => {
     return(
@@ -17,8 +17,8 @@ const Home = () => {
             <About/>
             <Fact/>
             <Service/>
-            <Video/>
-            <Team/>
+            {/* <Video/> */}
+            {/* <Team/> */}
             <Testimonial/>
             <Faq/>
            

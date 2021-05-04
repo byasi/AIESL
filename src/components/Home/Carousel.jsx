@@ -11,7 +11,7 @@ const Carousel = () => {
                 </ol>
                 <div className="carousel-inner">
                     <div className="carousel-item active">
-                        <img src="img/carousel-1.jpg" alt=""/>
+                        <img src="img/projects/project14.jpeg" alt=""/>
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">We Are Professional</p>
                             <h1 className="animated fadeInLeft">For Your Dream Project</h1>
@@ -20,7 +20,7 @@ const Carousel = () => {
                     </div>
 
                     <div className="carousel-item">
-                        <img src="img/carousel-2.jpg" alt=""/>
+                        <img src="img/projects/project16.jpeg" alt=""/>
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">Professional Builder</p>
                             <h1 className="animated fadeInLeft">We Build Your Home</h1>
@@ -29,7 +29,7 @@ const Carousel = () => {
                     </div>
 
                     <div className="carousel-item">
-                        <img src="img/carousel-3.jpg" alt=""/>
+                        <img src="img/projects/project12.jpeg" alt=""/>
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">We Are Trusted</p>
                             <h1 className="animated fadeInLeft">For Your Dream Home</h1>
