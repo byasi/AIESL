@@ -1,12 +1,15 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import About from './Home/About';
-import Fact from './Home/Fact';
-import Faq from './Home/Faq';
+import Footer from '../components/Footer';
+import Header from '../components/Header/Header';
+import About from '../components/Home/About';
+import Fact from '../components/Home/Fact';
+import Faq from '../components/Home/Faq';
 
 const AboutUs = () => {
     return(
-        <div>
+        <div className="wrapper">
+            <Header/>
              <div className="page-header">
                 <div className="container">
                     <div className="row">
@@ -23,7 +26,7 @@ const AboutUs = () => {
             <About/>
             <Fact/>
             <Faq/>
-            
+            <Footer/>
 
         </div>
         

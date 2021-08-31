@@ -1,9 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Footer from '../components/Footer';
+import Header from '../components/Header/Header';
 
 const OurTeam = () => {
     return(
-        <div>
+        <div className="wrapper">
+            <Header/>
              <div className="page-header">
                 <div className="container">
                     <div className="row">
@@ -164,6 +167,7 @@ const OurTeam = () => {
                     </div>
                 </div>
             </div>
+            <Footer/>
         </div>
     )
 }

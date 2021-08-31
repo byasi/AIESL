@@ -22,7 +22,7 @@ const About = () => {
                                 <p>
                                 Our main aim is to ensure quality and profesional workmanship in the real estate business.
                                 </p>
-                                <a className="btn" href="/">Learn More</a>
+                                {/* <a className="btn" href="/">Learn More</a> */}
                             </div>
                         </div>
                     </div>

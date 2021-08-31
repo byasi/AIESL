@@ -1,9 +1,12 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
+import Footer from '../components/Footer';
+import Header from '../components/Header/Header';
 
 const Projects = () => {
     return (
-        <div>
+        <div className="wrapper">
+            <Header/>
              <div className="page-header">
                 <div className="container">
                     <div className="row">
@@ -40,7 +43,7 @@ const Projects = () => {
                                     <img src="img/projects/project1.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                            These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -56,7 +59,7 @@ const Projects = () => {
                                     <img src="img/projects/project7.jpeg" alt="I"/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -72,7 +75,7 @@ const Projects = () => {
                                     <img src="img/projects/project3.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -88,7 +91,7 @@ const Projects = () => {
                                     <img src="img/projects/project4.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -104,7 +107,7 @@ const Projects = () => {
                                     <img src="img/projects/project16.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -120,7 +123,7 @@ const Projects = () => {
                                     <img src="img/projects/project9.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet elit. Phasel nec pretium mi. Curabit facilis ornare velit non. Aliqu metus tortor, auctor id gravi condime, viverra quis sem.
+                                        These are some of the projects AIESL has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -133,12 +136,12 @@ const Projects = () => {
                     </div>
                     <div className="row">
                         <div className="col-12 load-more">
-                            <a className="btn" href>Load More</a>
+                            {/* <a className="btn" href>Load More</a> */}
                         </div>
                     </div>
                 </div>
             </div>
-        
+        <Footer/>
         </div>
     )
 }

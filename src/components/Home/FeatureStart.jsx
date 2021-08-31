@@ -12,7 +12,7 @@ const FeatureStart = () => {
                         </div>
                         <div className="feature-text">
                             <h3>Expert Worker</h3>
-                            <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                            <p>Our workers are experienced and skilled at all the work they are specialised in.</p>
                         </div>
                     </div>
                 </div>
@@ -23,7 +23,7 @@ const FeatureStart = () => {
                         </div>
                         <div className="feature-text">
                             <h3>Quality Work</h3>
-                            <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                            <p>AIESL provides quality work because our vision is "Sustaining our brand name through providing high quality service".</p>
                         </div>
                     </div>
                 </div>
@@ -34,7 +34,7 @@ const FeatureStart = () => {
                         </div>
                         <div className="feature-text">
                             <h3>24/7 Support</h3>
-                            <p>Lorem ipsum dolor sit amet elit. Phasus nec pretim ornare velit non</p>
+                            <p>Please do not fail to contact us for more information. Our contacts are always available 24/7.</p>
                         </div>
                     </div>
                 </div>

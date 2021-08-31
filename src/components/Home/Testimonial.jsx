@@ -13,9 +13,7 @@ const Testimonial = () => {
                                 <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
                                 <div className="slider-nav"><img src="img/originals/Musiime2.jpeg" alt="Testimonial"/></div>
                                 <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime2.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime2.jpeg" alt="Testimonial"/></div>
+                               
                             </div>
                         </div>
                     </div>
@@ -25,43 +23,29 @@ const Testimonial = () => {
                                 <div className="slider-item">
                                     <h3>Musiime Bob</h3>
                                     <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
+                                    <p>Meet the founder and Chief Executive Officer of AIESL.</p>
                                 </div>
                                 <div className="slider-item">
                                     <h3>Musiime Bob</h3>
                                     <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
+                                    <p>Simple man with low profile</p>
                                 </div>
                                 <div className="slider-item">
                                     <h3>Musiime Bob</h3>
                                     <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
+                                    <p>Please fill free to contact me for more information and appointments.</p>
                                 </div>
                                 <div className="slider-item">
                                     <h3>Musiime Bob</h3>
                                     <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
+                                    <p>Our dear customers you can also contact on watsup, twitter, facebook and linkedIn</p>
                                 </div>
                                 <div className="slider-item">
                                     <h3>Musiime Bob</h3>
                                     <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
+                                    <p></p>
                                 </div>
-                                <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
-                                </div>
-                                <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
-                                </div>
-                                <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem. Curabitur non nisl nec nisi scelerisque maximus.</p>
-                                </div>
+                               
                             </div>
                         </div>
                     </div>

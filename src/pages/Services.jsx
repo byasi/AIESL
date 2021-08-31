@@ -1,10 +1,13 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import Faq from './Home/Faq';
+import Footer from '../components/Footer';
+import Header from '../components/Header/Header';
+import Faq from '../components/Home/Faq';
 
 const Services = () => {
     return(
-        <div>
+        <div className="wrapper">
+            <Header/>
              <div className="page-header">
                 <div className="container">
                     <div className="row">
@@ -31,7 +34,8 @@ const Services = () => {
                                     <img src="img/projects/project16.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                          It's not the beauty of a building you should look at, its the foundation
+                                          that will stand the test of time. AIESL provides you a foundation that will stand for years.
                                         </p>
                                     </div>
                                 </div>
@@ -47,7 +51,8 @@ const Services = () => {
                                     <img src="img/projects/project13.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            Living through a home renovation is like living in the wild. Give us a chance and we renovate your home and you will 
+                                            thank us later.
                                         </p>
                                     </div>
                                 </div>
@@ -63,7 +68,8 @@ const Services = () => {
                                     <img src="img/projects/project4.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            Architecture is the learned game,correct and magnificent, of forms assembled in the light.
+                                            AIESL shapes buildings and there after they shape us.
                                         </p>
                                     </div>
                                 </div>
@@ -79,7 +85,8 @@ const Services = () => {
                                     <img src="img/projects/project8.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                            The essence of interior design will always be about people and how they live. Interior design is making
+                                            the best possible use of the available space and we AIESL can provide the best interior design for you.
                                         </p>
                                     </div>
                                 </div>
@@ -95,7 +102,7 @@ const Services = () => {
                                     <img src="img/projects/project9.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                       AIESL also fixes broken and damaged windows, doors and so many more.
                                         </p>
                                     </div>
                                 </div>
@@ -111,7 +118,10 @@ const Services = () => {
                                     <img src="img/projects/project10.jpeg" alt=""/>
                                     <div className="service-overlay">
                                         <p>
-                                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus nec pretium mi. Curabitur facilisis ornare velit non vulputate. Aliquam metus tortor, auctor id gravida condimentum, viverra quis sem.
+                                        All you need to paint is a few tools, a little instruction, and a vision in your mind
+                                        Certain types and finishes work well on the house exterior than the interior, and vice versa. 
+                                        These paints also have different price tags, so choosing the right type is important. so we AIESL help u choose the best paint.
+
                                         </p>
                                     </div>
                                 </div>
@@ -125,6 +135,7 @@ const Services = () => {
                 </div>
             </div>
             <Faq/>
+            <Footer/>
         </div>
     )
 }
