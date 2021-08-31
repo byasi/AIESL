@@ -2,23 +2,21 @@ import React from 'react';
 import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 // Import Components
-import Footer from './components/Footer';
-import Header from './components/Header/Header';
-import Home from './components/Home/Home';
-import AboutUs from './components/AboutUs';
-import ContactUs from './components/ContactUs';
-import Projects from './components/Projects';
-import Services from './components/Services';
+
+import Home from './pages/Home';
+import AboutUs from './pages/AboutUs';
+import ContactUs from './pages/ContactUs';
+import Projects from './pages/Projects';
+import Services from './pages/Services';
 // import OurTeam from './components/OurTeam';
 //End of Components
 
 function App() {
   return (
     <Router>
-      <div className="wrapper">
-      <Header/>
+      <div >
      <Switch>
-        
+     
         <Route exact path="/">
         <Home/>
         </Route>
@@ -44,7 +42,6 @@ function App() {
         </Route> */}
 
       </Switch>
-      <Footer/>
     </div>
     </Router>
   );

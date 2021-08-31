@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Carousel = () => {
     return(
@@ -15,7 +16,7 @@ const Carousel = () => {
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">We Are Professional</p>
                             <h1 className="animated fadeInLeft">For Your Dream Project</h1>
-                            <a className="btn animated fadeInUp" href="./contact.html">Contact Us</a>
+                            <Link className="btn animated fadeInUp" to="/contactus">Contact Us</Link>
                         </div>
                     </div>
 
@@ -24,7 +25,7 @@ const Carousel = () => {
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">Professional Builder</p>
                             <h1 className="animated fadeInLeft">We Build Your Home</h1>
-                            <a className="btn animated fadeInUp" href="/contact.html">Get In Touch</a>
+                            <Link className="btn animated fadeInUp" to="/contactus">Get In Touch</Link>
                         </div>
                     </div>
 
@@ -33,7 +34,7 @@ const Carousel = () => {
                         <div className="carousel-caption">
                             <p className="animated fadeInRight">We Are Trusted</p>
                             <h1 className="animated fadeInLeft">For Your Dream Home</h1>
-                            <a className="btn animated fadeInUp" href="./contact.html">Support Us</a>
+                            <Link className="btn animated fadeInUp" to="./contactus">Support Us</Link>
                         </div>
                     </div>
                 </div>
