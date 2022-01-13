@@ -10,15 +10,15 @@ const Footer = () => {
                         <div className="col-md-6 col-lg-3">
                             <div className="footer-contact">
                                 <h2>Office Contact</h2>
-                                <p><i className="fa fa-map-marker-alt"></i>Kazo, Kampala, Uganda</p>
-                                <p><i className="fa fa-phone-alt"></i>+256 704 761 457</p>
-                                <p><i className="fa fa-envelope"></i>musiimebobanold@gmail.com</p>
+                                <p><i className="fa fa-map-marker-alt"></i>Nakawa, Kampala, Uganda</p>
+                                <p><i className="fa fa-phone-alt"></i>+256 781 758 068</p>
+                                <p><i className="fa fa-envelope"></i>futurebuilderz@gmail.com</p>
                                 <div className="footer-social">
-                                    <a href="https://twitter.com/AshnoldL?s=09"><i className="fab fa-twitter"></i></a>
-                                    <a href="https://www.facebook.com/562170050824223/posts/1317452445295976/"><i className="fab fa-facebook-f"></i></a>
+                                    <a href="#/"><i className="fab fa-twitter"></i></a>
+                                    <a href="#/"><i className="fab fa-facebook-f"></i></a>
                                     <a href="#/"><i className="fab fa-youtube"></i></a>
                                     <a href="#/"><i className="fab fa-instagram"></i></a>
-                                    <a href="https://www.linkedin.com/in/anold-musiime-673693162"><i className="fab fa-linkedin-in"></i></a>
+                                    <a href="#/"><i className="fab fa-linkedin-in"></i></a>
                                 </div>
                             </div>
                         </div>
@@ -65,7 +65,7 @@ const Footer = () => {
                 <div className="container copyright">
                     <div className="row">
                         <div className="col-md-6">
-                            <p>&copy; <a href="/">Ashnold Interior & Exterior Services Ltd</a>, All Right Reserved.</p>
+                            <p>&copy; <a href="/">FutureBuilderz Ltd</a>, All Right Reserved.</p>
                         </div>
                         <div className="col-md-6">
                             <p>Designed By <a href="https://github.com/byasi">Future Kings</a></p>

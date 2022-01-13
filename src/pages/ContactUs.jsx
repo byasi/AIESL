@@ -34,22 +34,22 @@ const ContactUs = () => {
                                     <i className="flaticon-address"></i>
                                     <div className="contact-text">
                                         <h2>Location</h2>
-                                        <p>Kazo, Kampala, Uganda</p>
+                                        <p>Nakawa, Kampala, Uganda</p>
                                     </div>
                                 </div>
                                 <div className="contact-item">
                                     <i className="flaticon-call"></i>
                                     <div className="contact-text">
                                         <h2>Phone</h2>
-                                        <p>+256 704 761 457</p>
-                                        <p>+256 784 664 540</p>
+                                        <p>+256 759 878 065</p>
+                                        <p>+256 781 758 068</p>
                                     </div>
                                 </div>
                                 <div className="contact-item">
                                     <i className="flaticon-send-mail"></i>
                                     <div className="contact-text">
                                         <h2>Email</h2>
-                                        <p>musiimebobanold@gmail.com</p>
+                                        <p>futurebuilderz@gmail.com</p>
                                     </div>
                                 </div>
                             </div>

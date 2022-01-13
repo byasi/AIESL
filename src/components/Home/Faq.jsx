@@ -20,7 +20,7 @@ const Faq = () => {
                                     </div>
                                     <div id="collapseOne" className="collapse" data-parent="#accordion-1">
                                         <div className="card-body">
-                                        Ashnold Interior & Exterior Services Ltd has fulfilled Ugandans needs through providing latest
+                                        FutureBuilderz Ltd has fulfilled Ugandans needs through providing latest
                                         and trending paint colours, Gypsum ceiling designs among others in the real estate business for the 
                                         past years.
                                         </div>
@@ -89,37 +89,37 @@ const Faq = () => {
                                 <div className="card wow fadeInRight" data-wow-delay="0.1s">
                                     <div className="card-header">
                                         <a className="card-link collapsed" data-toggle="collapse" href="#collapseSix">
-                                            Who is the CEO of AIESL?
+                                            Who is the CEO of FutureBuilderz?
                                         </a>
                                     </div>
                                     <div id="collapseSix" className="collapse" data-parent="#accordion-2">
                                         <div className="card-body">
-                                            <strong>Musiime Bob Anold</strong> is the founder and CEO of AIESL.
-                                           <span> Contact him on his phone contacts: <strong>+256 704 761 457</strong> and <strong>+256 784 664 540</strong> Also via email <strong>musiimebobanold@gmail.com</strong></span>
+                                            <strong>Kanyankole</strong> is the founder and CEO of FutureBuilderz.
+                                           <span> Contact him on his phone contacts: <strong>+256 759 878 065</strong> and <strong>+256 781 758 068</strong> Also via email <strong>futurebuilderz@gmail.com</strong></span>
                                         </div>
                                     </div>
                                 </div>
-                                <div className="card wow fadeInRight" data-wow-delay="0.2s">
+                                {/* <div className="card wow fadeInRight" data-wow-delay="0.2s">
                                     <div className="card-header">
                                         <a className="card-link collapsed" data-toggle="collapse" href="#collapseSeven">
-                                            What is AIESL in full?
+                                            What is FutureBuilderz in full?
                                         </a>
                                     </div>
                                     <div id="collapseSeven" className="collapse" data-parent="#accordion-2">
                                         <div className="card-body">
-                                            AIESL is Ashnold Interior and Exterior Services Ltd
+                                            FutureBuilderz is Ashnold Interior and Exterior Services Ltd
                                         </div>
                                     </div>
-                                </div>
+                                </div> */}
                                 <div className="card wow fadeInRight" data-wow-delay="0.3s">
                                     <div className="card-header">
                                         <a className="card-link collapsed" data-toggle="collapse" href="#collapseEight">
-                                            Where is AIESL located?
+                                            Where is FutureBuilderz located?
                                         </a>
                                     </div>
                                     <div id="collapseEight" className="collapse" data-parent="#accordion-2">
                                         <div className="card-body">
-                                        AIESL is located in Kazo, Kampala, Uganda.
+                                        FutureBuilderz is located in Nakawa, Kampala, Uganda.
                                         </div>
                                     </div>
                                 </div>

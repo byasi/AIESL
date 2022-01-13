@@ -8,12 +8,11 @@ const Testimonial = () => {
                     <div className="row">
                         <div className="col-12">
                             <div className="testimonial-slider-nav">
-                                <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime2.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime2.jpeg" alt="Testimonial"/></div>
-                                <div className="slider-nav"><img src="img/originals/Musiime.jpeg" alt="Testimonial"/></div>
-                               
+                                <div className="slider-nav"><img src="img/originals/16.jpg" alt="Testimonial"/></div>
+                                <div className="slider-nav"><img src="img/originals/16.jpg" alt="Testimonial"/></div>
+                                <div className="slider-nav"><img src="img/originals/16.jpg" alt="Testimonial"/></div>
+                                <div className="slider-nav"><img src="img/originals/16.jpg" alt="Testimonial"/></div>
+                                <div className="slider-nav"><img src="img/originals/16.jpg" alt="Testimonial"/></div>
                             </div>
                         </div>
                     </div>
@@ -21,28 +20,28 @@ const Testimonial = () => {
                         <div className="col-12">
                             <div className="testimonial-slider">
                                 <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
-                                    <p>Meet the founder and Chief Executive Officer of AIESL.</p>
+                                    <h3>Byasi Solomon</h3>
+                                    <h4>CEO of FutureBuilderz</h4>
+                                    <p>Meet the founder and Chief Executive Officer of FutureBuilderz.</p>
                                 </div>
                                 <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
+                                <h3>Byasi Solomon</h3>
+                                    <h4>CEO of FutureBuilderz</h4>
                                     <p>Simple man with low profile</p>
                                 </div>
                                 <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
+                                <h3>Byasi Solomon</h3>
+                                    <h4>CEO of FutureBuilderz</h4>
                                     <p>Please fill free to contact me for more information and appointments.</p>
                                 </div>
                                 <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
+                                <h3>Byasi Solomon</h3>
+                                    <h4>CEO of FutureBuilderz</h4>
                                     <p>Our dear customers you can also contact on watsup, twitter, facebook and linkedIn</p>
                                 </div>
                                 <div className="slider-item">
-                                    <h3>Musiime Bob</h3>
-                                    <h4>CEO of AIESL</h4>
+                                    <h3>Byasi Solomon</h3>
+                                    <h4>CEO of FutureBuilderz</h4>
                                     <p></p>
                                 </div>
                                
