@@ -9,7 +9,7 @@ const TopBar = () => {
             <div className="col-lg-4 col-md-12">
                 <div className="logo">
                     <Link to="/">
-                        <h1>AIESL </h1>
+                        <h1>FutureBuilder </h1>
                     </Link>
                 </div>
             </div>
@@ -33,8 +33,8 @@ const TopBar = () => {
                             </div>
                             <div className="top-bar-text">
                                 <h3>Call Us</h3>
-                                <p>+256 704 761 457</p>
-                                <p>+256 784 664 540</p>
+                                <p>+256 759 878 065</p>
+                                <p>+256 781 758 068</p>
                             </div>
                         </div>
                     </div>
@@ -45,7 +45,7 @@ const TopBar = () => {
                             </div>
                             <div className="top-bar-text">
                                 <h3>Email Us</h3>
-                                <p>musiimebobanold@gmail.com</p>
+                                <p>futurebuilderz@gmail.com</p>
                             </div>
                         </div>
                     </div>

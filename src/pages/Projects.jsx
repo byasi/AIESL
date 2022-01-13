@@ -43,7 +43,7 @@ const Projects = () => {
                                     <img src="img/projects/project1.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                            These are some of the projects AIESL has been contracted.
+                                            These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -59,7 +59,7 @@ const Projects = () => {
                                     <img src="img/projects/project7.jpeg" alt="I"/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                        These are some of the projects AIESL has been contracted.
+                                        These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -75,7 +75,7 @@ const Projects = () => {
                                     <img src="img/projects/project3.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                        These are some of the projects AIESL has been contracted.
+                                        These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -91,7 +91,7 @@ const Projects = () => {
                                     <img src="img/projects/project4.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                        These are some of the projects AIESL has been contracted.
+                                        These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -107,7 +107,7 @@ const Projects = () => {
                                     <img src="img/projects/project16.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                        These are some of the projects AIESL has been contracted.
+                                        These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>
@@ -123,7 +123,7 @@ const Projects = () => {
                                     <img src="img/projects/project9.jpeg" alt=""/>
                                     <div className="portfolio-overlay">
                                         <p>
-                                        These are some of the projects AIESL has been contracted.
+                                        These are some of the projects FutureBuilderz has been contracted.
                                         </p>
                                     </div>
                                 </div>

@@ -23,7 +23,7 @@ const FeatureStart = () => {
                         </div>
                         <div className="feature-text">
                             <h3>Quality Work</h3>
-                            <p>AIESL provides quality work because our vision is "Sustaining our brand name through providing high quality service".</p>
+                            <p>FutureBuilderz provides quality work because our vision is "Sustaining our brand name through providing high quality service".</p>
                         </div>
                     </div>
                 </div>
